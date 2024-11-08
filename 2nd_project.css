@@ -1,0 +1,33 @@
+
+
+#div1{
+
+    border: 1px solid greenyellow;
+    height: 843px;
+    width: 620px;
+    background-color: greenyellow;
+    margin: auto;
+    /* border-radius: 10px 10px 0px 0px;  */
+    border-top-left-radius:70px;
+    
+
+}
+#div2{
+    border: 1px solid white;
+    height: 750px;
+    width: 600px;
+    margin-left: 10px;
+    background-color: white;
+    border-radius: 10px 10px 0px 0px; 
+}
+.class1{
+
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.class2{
+    width: 570px;
+}
+#div4{
+    background-color: greenyellow;
+}
